@@ -10,7 +10,7 @@ We have a thriving Telegram community
 
 🧂 Main Channel [t.me/LikeSwapOrg](https://t.me/LikeSwapOrg)
 
-📣 Announcement Channel [t.me/LikeSwapOrg](https://t.me/LikeSwapChat)
+📣 Announcement Channel [t.me/LikeSwapChat](https://t.me/LikeSwapChat)
 
 **Unofficial Telegram Groups:**
 
