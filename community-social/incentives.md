@@ -18,7 +18,7 @@ Please read how to contribute in our guide in the repo's README.
 
 **Designer?**
 
-Create a sticker pack for Telegram [t.me/LikeSwapOrgOrg](https://t.me/LikeSwapOrgOrg), the top 3 most voted will earn a big chunk of LIKE rewards.
+Create a sticker pack for Telegram [t.me/LikeSwapOrg](https://t.me/LikeSwapOrg), the top 3 most voted will earn a big chunk of LIKE rewards.
 
 **Do you speak a language other than English?**
 
