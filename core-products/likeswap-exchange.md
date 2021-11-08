@@ -4,7 +4,7 @@ description: LikeSwap's Exchange
 
 # Exchange
 
-[**Token swaps**](https://app.likeswap.org/#/swap) on LikeSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools. In the backend of the exchange we are using [PancakeSwap](https://pancakeswap.finance).
+[**Token swaps**](https://app.likeswap.org/#/swap) on LikeSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools. In the backend of the exchange we are using [LikeSwap](https://likeswap.org).
 
 ![LikeSwap Exchange UI](../.gitbook/assets/likeswap-exchange.png)
 
