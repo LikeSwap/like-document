@@ -10,6 +10,7 @@ Our contracts are publicly accessible in the following repo [github.com/likeswap
 
 * **Factory:** [0xcedb8a736b666a90182a270a016bd7d3114fe9da](https://bscscan.com/address/0xcedb8a736b666a90182a270a016bd7d3114fe9da)
 * **Router:** [0xed8562b9421edb330ffc46be88eceecbb29a5c06](https://bscscan.com/address/0xed8562b9421edb330ffc46be88eceecbb29a5c06#code)
+* **Lottery:** [0x4ee3aed30e4bf5f3f63c4dada9f7840bfd96f058](https://bscscan.com/address/0x4ee3aed30e4bf5f3f63c4dada9f7840bfd96f058)
 * **LIKE Token:** [0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://bscscan.com/address/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
 * **MasterChef:** [0xd69d858e32438a44fb5cba7a4619970fb0746654](https://bscscan.com/address/0xd69d858e32438a44fb5cba7a4619970fb0746654)
 * **Timelock:** [0x8ad5637b0c77633654af7885be391c03140eba97](https://bscscan.com/address/0x8ad5637b0c77633654af7885be391c03140eba97) (delay: 24h)
