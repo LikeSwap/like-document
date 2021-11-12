@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Like Swap](README.md)
+* [LikeSwap Finance](README.md)
 * [Roadmap](roadmap.md)
 * [FAQ](faq.md)
 
