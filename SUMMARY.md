@@ -29,6 +29,7 @@
 * [Telegram](community-social/telegram.md)
 * [Blog (Medium)](community-social/blog-medium.md)
 * [Facebook](community-social/facebook.md)
+* [Contact](community-social/contact.md)
 
 ## Code
 
