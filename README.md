@@ -16,13 +16,13 @@ Even though we are starting off with a likey yield farm, we will quickly move on
 
 We feel most projects in the space are a wee bit flavorless, so we are planning to add a little grain of like and make them tastier. Get likey!
 
-Join us and taste our new flavoured likey token!
+Join us and taste our new flavoured Like token!
 
 ***
 
 **How?**
 
-We are launching a yield farm with a fair token distribution! No premine, reward start announced in advance, and no F\&F getting allocs. We believe this is super fair and everyone can enjoy the likey yields.
+We are launching a yield farm with a fair token distribution! No premine, reward start announced in advance, and no F\&F getting allocs. We believe this is super fair and everyone can enjoy the like yields.
 
 **What do you get then?**
 
