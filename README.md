@@ -1,5 +1,5 @@
 ---
-description: Get like! 🧂
+description: Get like!
 ---
 
 # LikeSwap Finance

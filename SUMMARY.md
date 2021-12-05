@@ -2,6 +2,7 @@
 
 * [LikeSwap Finance](README.md)
 * [Roadmap](roadmap.md)
+* [White Paper](white-paper.md)
 * [FAQ](faq.md)
 
 ## Core Products
