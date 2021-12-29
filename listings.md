@@ -1,6 +1,6 @@
 # 🎉 Listings
 
-👉 **BscScan:** [https://bscscan.com/token/0x4a162E9](https://bscscan.com/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
+👉 **BscScan:** https://bscscan.com/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf
 
 👉 **DappRadar:** [https://dappradar.com/binance-smart-chain/defi/likeswap](https://dappradar.com/binance-smart-chain/defi/likeswap)
 
