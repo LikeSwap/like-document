@@ -2,6 +2,8 @@
 
 👉 **BscScan:** [https://bscscan.com/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://bscscan.com/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
 
+👉 **PancakeSwap:** [https://pancakeswap.finance/swap?outputCurrency=0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://pancakeswap.finance/swap?outputCurrency=0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
+
 👉 **DappRadar:** [https://dappradar.com/binance-smart-chain/defi/likeswap](https://dappradar.com/binance-smart-chain/defi/likeswap)
 
 👉 **Coinvote:** [https://coinvote.cc/coin/LikeSwap](https://coinvote.cc/coin/LikeSwap)
