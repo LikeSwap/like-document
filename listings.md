@@ -2,7 +2,17 @@
 
 👉 **BscScan:** [https://bscscan.com/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://bscscan.com/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
 
+👉 **Poocoin:** [https://poocoin.app/tokens/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://poocoin.app/tokens/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
+
 👉 **PancakeSwap:** [https://pancakeswap.finance/swap?outputCurrency=0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://pancakeswap.finance/swap?outputCurrency=0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
+
+👉 **Flooz trade:** [https://www.flooz.trade/wallet/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf/?refId=ndQ4fH\&chainId=56](https://www.flooz.trade/wallet/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf/?refId=ndQ4fH\&chainId=56)
+
+👉 **Dextools:** [https://www.dextools.io/app/bsc/pair-explorer/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://www.dextools.io/app/bsc/pair-explorer/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
+
+👉 **Arken:** [https://swap.arken.finance/tokens/bsc/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://swap.arken.finance/tokens/bsc/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
+
+👉 **Dex Guru:** [https://dex.guru/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf-bsc](https://dex.guru/token/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf-bsc)
 
 👉 **DappRadar:** [https://dappradar.com/binance-smart-chain/defi/likeswap](https://dappradar.com/binance-smart-chain/defi/likeswap)
 
