@@ -4,6 +4,8 @@
 
 👉 **Poocoin:** [https://poocoin.app/tokens/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://poocoin.app/tokens/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
 
+👉 **Bogged:** [https://charts.bogged.finance/?c=bsc\&t=0x4a162E9A102D2195C1C4bF3bd319AD25a895cCaf](https://charts.bogged.finance/?c=bsc\&t=0x4a162E9A102D2195C1C4bF3bd319AD25a895cCaf)
+
 👉 **PancakeSwap:** [https://pancakeswap.finance/swap?outputCurrency=0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://pancakeswap.finance/swap?outputCurrency=0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
 
 👉 **Flooz trade:** [https://www.flooz.trade/wallet/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf/?refId=ndQ4fH\&chainId=56](https://www.flooz.trade/wallet/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf/?refId=ndQ4fH\&chainId=56)
