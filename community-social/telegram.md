@@ -2,7 +2,7 @@
 description: LikeSwap's Telegram Community
 ---
 
-# Telegram Communities
+# 💬 Telegram
 
 We have a thriving Telegram community
 

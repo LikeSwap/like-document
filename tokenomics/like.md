@@ -2,7 +2,7 @@
 description: A perpetual deflation token
 ---
 
-# LIKE
+# 👍 LIKE
 
 ![](../.gitbook/assets/logo200x200.png)
 

@@ -2,7 +2,7 @@
 description: Get like!
 ---
 
-# LikeSwap Finance
+# 👍 LikeSwap Finance
 
 **Why LIKE?**
 

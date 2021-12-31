@@ -2,11 +2,9 @@
 description: LikeSwap's Contracts
 ---
 
-# Contracts
+# 📔 Contracts
 
 Our contracts are publicly accessible in the following repo [github.com/likeswap/likeswap-contracts](https://github.com/likeswap/likeswap-contracts)
-
-
 
 * **Factory:** [0xcedb8a736b666a90182a270a016bd7d3114fe9da](https://bscscan.com/address/0xcedb8a736b666a90182a270a016bd7d3114fe9da)
 * **Router:** [0xed8562b9421edb330ffc46be88eceecbb29a5c06](https://bscscan.com/address/0xed8562b9421edb330ffc46be88eceecbb29a5c06#code)

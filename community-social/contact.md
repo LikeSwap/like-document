@@ -2,6 +2,6 @@
 description: Contact LikeSwap
 ---
 
-# Contact
+# 📧 Contact
 
 Email: support@likeswap.org

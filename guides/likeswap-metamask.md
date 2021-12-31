@@ -2,7 +2,7 @@
 description: LikeSwap and MetaMask
 ---
 
-# How to use MetaMask on LikeSwap
+# 🥸 How to use MetaMask on LikeSwap
 
 Please follow this guide on Binance:
 

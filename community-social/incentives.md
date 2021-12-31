@@ -2,7 +2,7 @@
 description: LikeSwap's Incentives Program
 ---
 
-# LIKE incentives
+# 👍 LIKE incentives
 
 You can earn free LIKE tokens by participating in some of our incentive programs.
 

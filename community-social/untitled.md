@@ -2,7 +2,7 @@
 description: LikeSwap's Twitter Account
 ---
 
-# Twitter
+# 🐦 Twitter
 
 We will be tweeting frequently [@LikeSwapOrg](https://twitter.com/LikeSwapOrg)
 

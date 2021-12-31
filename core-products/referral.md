@@ -2,7 +2,7 @@
 description: Refer and get 1% of all friends' earnings
 ---
 
-# Referral
+# 🤝 Referral
 
 To increase our platform exposure, we are rewarding users who refer their friends to join them in yield farming.
 

@@ -4,7 +4,8 @@
 * [🗺 Roadmap](roadmap.md)
 * [📜 White Paper](white-paper.md)
 * [📄 FAQ](faq.md)
-* [🎉 Listings](listings.md)
+* [🎉 Listings](listings/README.md)
+  * [🔐 Audit](listings/audit.md)
 
 ## Core Products
 

@@ -2,11 +2,11 @@
 description: LikeSwap's Frequently Asked Questions
 ---
 
-# FAQ
+# 📄 FAQ
 
 **How do I know you willl not rug me? Are the contracts safe?**
 
-Please refer to our documentation on [contracts (here)](broken-reference)
+Please refer to our documentation on [contracts (here)](broken-reference/)
 
 **Can I get free LIKE?**
 
