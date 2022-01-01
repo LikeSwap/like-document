@@ -46,4 +46,4 @@ function migrate(uint256 _pid) public {
 
 **Diff EGG MasterChef vs LIKE MasterChef**
 
-Please refer to the following diffchecker: [diffchecker.com/AoYdXp6H](https://www.diffchecker.com/AoYdXp6H)
+Please refer to the following diffchecker: [diffchecker.com/sK2t4q4K](https://www.diffchecker.com/sK2t4q4K)
