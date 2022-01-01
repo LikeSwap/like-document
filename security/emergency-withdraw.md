@@ -1,6 +1,6 @@
 # 🔄 Emergency Withdraw
 
-If something happens to PantherSwap's frontend such as a DDOS attack or a temporary outage, farmers can still withdraw their tokens by direct interaction with the MasterChef contract.&#x20;
+If something happens to LikeSwap frontend such as a DDOS attack or a temporary outage, farmers can still withdraw their tokens by direct interaction with the MasterChef contract.&#x20;
 
 Call the emergencyWithdraw function with the farm or pool id listed below to withdraw your staked tokens. Withdraw without caring about rewards.&#x20;
 
