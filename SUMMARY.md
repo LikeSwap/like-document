@@ -38,6 +38,7 @@
 
 * [🪞 No Migrator Code](security/no-migrator-code.md)
 * [⏳ Timelock](security/timelock.md)
+* [🔄 Emergency Withdraw](security/emergency-withdraw.md)
 * [🔐 Audit](security/audit.md)
 
 ## Code
