@@ -3,7 +3,7 @@
 * [🏠 Home](https://likeswap.org)
 * [👍 LikeSwap Finance](README.md)
 * [🗺 Roadmap](roadmap.md)
-* [📜 White Paper](white-paper.md)
+* [📜 White Paper](https://likeswap.org/files/whitepaper.pdf)
 * [📄 FAQ](faq.md)
 * [🎉 Listings](listings.md)
 
