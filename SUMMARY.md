@@ -21,10 +21,6 @@
 
 * [👍 LIKE](tokenomics/like.md)
 
-## Guides
-
-* [🥸 How to use MetaMask on LikeSwap](guides/likeswap-metamask.md)
-
 ## Community / Social
 
 * [👍 LIKE incentives](community-social/incentives.md)
@@ -40,6 +36,10 @@
 * [⏳ Timelock](security/timelock.md)
 * [🔄 Emergency Withdraw](security/emergency-withdraw.md)
 * [🔐 Audit](security/audit.md)
+
+## Guides
+
+* [🥸 How to use MetaMask on LikeSwap](guides/likeswap-metamask.md)
 
 ## Code
 
