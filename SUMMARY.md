@@ -1,11 +1,11 @@
 # Table of contents
 
+* [🏠 Home](https://likeswap.org)
 * [👍 LikeSwap Finance](README.md)
 * [🗺 Roadmap](roadmap.md)
 * [📜 White Paper](white-paper.md)
 * [📄 FAQ](faq.md)
-* [🎉 Listings](listings/README.md)
-  * [🔐 Audit](listings/audit.md)
+* [🎉 Listings](listings.md)
 
 ## Core Products
 
@@ -33,6 +33,10 @@
 * [🗨 Blog (Medium)](community-social/blog-medium.md)
 * [📒 Facebook](community-social/facebook.md)
 * [📧 Contact](community-social/contact.md)
+
+## SECURITY
+
+* [🔐 Audit](security/audit.md)
 
 ## Code
 
