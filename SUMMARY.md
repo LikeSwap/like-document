@@ -36,6 +36,8 @@
 
 ## SECURITY
 
+* [🪞 No Migrator Code](security/no-migrator-code.md)
+* [⏳ Timelock](security/timelock.md)
 * [🔐 Audit](security/audit.md)
 
 ## Code
