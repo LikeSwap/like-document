@@ -8,9 +8,9 @@ We have a thriving Telegram community
 
 **Official Telegram Groups:**
 
-🧂 Main Channel [t.me/LikeSwapOrg](https://t.me/LikeSwapOrg)
+🧂 Main Channel: [https://t.me/LikeSwapAnn](https://t.me/LikeSwapAnn)
 
-📣 Announcement Channel [t.me/LikeSwapChat](https://t.me/LikeSwapChat)
+📣 Announcement Channel: [https://t.me/LikeSwapOrg](https://t.me/LikeSwapOrg)
 
 **Unofficial Telegram Groups:**
 
