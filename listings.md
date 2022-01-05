@@ -44,5 +44,5 @@
 
 👉**Top100Token:** [https://top100token.com/address/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf](https://top100token.com/address/0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf)
 
-👉 CoinMooner [https://coinmooner.com/coin/9596](https://coinmooner.com/coin/9596)
+👉 **CoinMooner** [https://coinmooner.com/coin/9596](https://coinmooner.com/coin/9596)
 
